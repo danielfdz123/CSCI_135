@@ -1,7 +1,7 @@
 //Daniel Andres Fernandez
 //daniel.fernandez16@myhunter.cuny.edu
 //December 5, 2022
-//Lab 11A
+//Lab 11C
 
 #include <iostream>
 using namespace std;
