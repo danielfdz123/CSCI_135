@@ -12,7 +12,7 @@ ________________________________________________________________________________
   
   1c.cpp- Primpts the user to enter a year and determines wether or not it is a leap year or not
   
-  1d.cpp- Prompts the user to enter a month and year, to determine wether ot not it is a leap yera not not, and the amount of days in said month (28, 29, 30, 31)
+  1d.cpp- Prompts the user to enter a month and year, to determine wether ot not it is a leap year or not, along with the amount of days in said month (28, 29, 30, 31)
   
 
 **• LOOPS & ARRAYS**
