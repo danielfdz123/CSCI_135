@@ -4,7 +4,7 @@ Hunter College: CSCI 13500 [Software Analysis & Design I]
 
 All of the coding lab assignments I worked on while taking CSCI 135 at CUNY Hunter College during the Fall 2022 semester. Below is a description of what each program does.
 ____________________________________________________________________________________________________________________________________________________________
-**INTRO TO LINUX AND TO C++**
+**• INTRO TO LINUX AND TO C++**
 
   1a.cpp- Prompts the user to give 2 numbers, and output the smallest one fo the two
   
@@ -15,7 +15,8 @@ ________________________________________________________________________________
   1d.cpp- Prompts the user to enter a month and year, to determine wether ot not it is a leap yera not not, and the amount of days in said month (28, 29, 30, 31)
   
 
-**LOOPS AND ARRAYS**
+**• LOOPS & ARRAYS**
+
   2a.cpp- Prompts the user to enter a number then it squares it
   
   2b.cpp- Prompts the user to enter 2 numbers, then will output all the numbers between said numbers
@@ -24,7 +25,7 @@ ________________________________________________________________________________
   
   2d.cpp- Computes the first 60 digits of the fobonacci sequence
 
-**FILE I/O, PROCESS DATA** (_3a-3d will use the same input file_)
+**• FILE I/O, PROCESS DATA** (_3a-3d will use the same input file_)
 
   3a.cpp- Reads in a file containing information about NYC's reservoirs from the year 2018. This program will prompt the user for a date, then output the recorded reservoir storage from that day
   
@@ -34,7 +35,7 @@ ________________________________________________________________________________
   
   3d.cpp- Prompts the user for two dates, then will output the recorded elevation for all the dates between the two dates the user has entered, all of which come from the WEST basin. However, the output of these records will be in reverse chronological order
 
-**PRINTING SHAPES**
+**• PRINTING SHAPES**
 
   4a.cpp- Will prompt the user to enter two numbers, one that represents width and that other that represents length. Using these values, it'll output a box full of stars using the given width and length.
   
@@ -50,7 +51,7 @@ ________________________________________________________________________________
   
   4g.cpp- Prompts the user to enter a width and height which will then be used to make an alternating pattern of 3x3 squares made from stars.
 
-**FUNCTIONS AND PRIME NUMBERS**
+**• FUNCTIONS AND PRIME NUMBERS**
 
   5a.cpp- Prompts the user to enter two numbers, and checks divisibility amongst them.
   
@@ -66,7 +67,7 @@ ________________________________________________________________________________
   
   5g.cpp- Prompts the user to enter a range of two numbers, which will then let us know the greatest twin prime number within that range of those two numbers given by the user
 
-**STRINGS AND CYPHERS**
+**• STRINGS AND CYPHERS**
 
   6a.cpp- Using a string from the user, this program outputs the corresponding ASCII value of each character within the string
   
@@ -74,13 +75,13 @@ ________________________________________________________________________________
   
   6c.cpp- Using a string from the user, and a set keyword, this program will encryt the string using each character from the keyword via the Vigenere cipher method
   
-**AUTO STYLE**
+**• AUTO STYLE**
 
   7a.cpp- This program reshapes the block of code by removing any leading spaces from each line
   
   7b.cpp- This program reshapes the block of code by adding any neccesary indentation to the code, making it easier to read
 
-**IMAGE PROCESSING**
+**• IMAGE PROCESSING**
 
   8a.cpp- Reads in an image, then inverts all the colors of that image
   
@@ -94,7 +95,7 @@ ________________________________________________________________________________
   
   8f.cpp- Reads in an image and makes it pixelated
 
-**POINTERS**
+**• POINTERS**
 
   9a.cpp- Using a set of x, y, z coordinates, this program will calculate the distance to get to point P with those sets of coordinates by using the euclidean distance formula
   
@@ -106,7 +107,7 @@ ________________________________________________________________________________
   
   9e.cpp- Using a set string, this code dynamically allocates the memory of tthe stringm assignes it to a pointer then deletes the memory to avoid memory leaks
 
-**CLASSES**
+**• CLASSES**
   10a.cpp- Prompts the user to enter two intervals of time, and the program will output how many minutes each time is after midnight, along with their difference
 
   10b.cpp- Prompts the user to enter a start time, and an amount of minutes we would like to add to this start time. Then the program wil output the new time with these added minutes
@@ -117,7 +118,7 @@ ________________________________________________________________________________
 
   10e.cpp- Using a designated movie title, genre, and duration, this program will output wether or not the timing of the two movies overlap eachother
 
-**MORE CLASSES** (Code builds off of one another as we progress in this section)
+**• MORE CLASSES** (Code builds off of one another as we progress in this section)
 
   11a.cpp- Implementing a profile class, this program manages the users profile with a username and their display name, allowing all of it to be displayed/updated
 
@@ -127,7 +128,7 @@ ________________________________________________________________________________
   
   11d.cpp- Implementing a new struct called Post, which will allow us to make posts and have the timeline of each username.
 
-**VECTORS**
+**• VECTORS**
 
   12a.cpp- This program returns a vector of n integers that range from 0 to n-1
 
